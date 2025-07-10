@@ -67,3 +67,15 @@ Whether you're building a new store or need help optimizing an existing one, I b
 
 👉 [Message me on Upwork](https://www.upwork.com/freelancers/shopifyexpertshopifydeveloper) or connect via [LinkedIn](https://www.linkedin.com/in/shopify-expert-gagan-deep/)
 
+---
+
+## 📊 GitHub Stats & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaganvirkpta1&show_icons=true&theme=default&hide=prs,issues&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganvirkpta1&layout=compact&theme=default&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaganvirkpta1&label=Profile+Views&color=blue" alt="Profile Views" />
+</p>
